@@ -23,11 +23,12 @@ email: andrea.leop@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A simple and quick portfolio I'm arranging on my spare time. Still WIP.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ileop.github.io/leopardi/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ileop
 github_username:  ileop
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
