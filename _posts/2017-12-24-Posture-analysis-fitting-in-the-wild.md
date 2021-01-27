@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Posture analysis through _“fitting-in-the-wild”_ based technique"
+title:  "Posture analysis through “fitting-in-the-wild” based technique"
 date:   2017-12-24 24:10:08 +0100
 categories: unitn eit computer-vision
 ---
